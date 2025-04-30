@@ -8,7 +8,7 @@ while true; do
   echo "    1) Test Connectivity with Certain IP Addresses"
   echo "    2) Backup Folders"
   echo "    3) Restore a Folder from Backup"
-  echo "    4) "
+  echo "    4) Failed Login Attempts"
   echo "    5) Exit"
   read -p "Enter your choice: " choice
   
@@ -24,6 +24,10 @@ while true; do
 
     3 )
     source ./restoreFolder.sh
+    ;;
+
+    4 )
+    source ./loginAttempts.sh
     ;;
 
     5)

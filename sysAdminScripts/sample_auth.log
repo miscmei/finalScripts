@@ -1,0 +1,8 @@
+Apr 29 10:05:23 server sshd[1023]: Failed password for invalid user admin from 192.168.1.101 port 43822 ssh2
+Apr 29 10:05:26 server sshd[1023]: Failed password for invalid user root from 192.168.1.101 port 43822 ssh2
+Apr 29 10:06:10 server sshd[1024]: Failed password for john from 10.0.0.5 port 52211 ssh2
+Apr 29 10:06:12 server sshd[1024]: Accepted password for john from 10.0.0.5 port 52211 ssh2
+Apr 29 10:07:45 server sshd[1025]: Failed password for invalid user guest from 203.0.113.42 port 59000 ssh2
+Apr 29 10:08:01 server sshd[1026]: Failed password for alice from 192.168.1.200 port 60123 ssh2
+Apr 29 10:08:03 server sshd[1026]: Failed password for alice from 192.168.1.200 port 60123 ssh2
+Apr 29 10:08:05 server sshd[1026]: Accepted password for alice from 192.168.1.200 port 60123 ssh2
